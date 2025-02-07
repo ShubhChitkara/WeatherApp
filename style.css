@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
+    font-family: "Roboto", serif;
 }
 .container{
     background-color: black;
@@ -42,6 +44,12 @@ input{
     width: 500px;
     margin-right: 10px;
     border: 2px solid pink;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .imagebox{
     height: 500px;
