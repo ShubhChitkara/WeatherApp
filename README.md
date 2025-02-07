@@ -1,2 +1,2 @@
 # WeatherApp
-bug 1) rendered gif is coming outside of designated div.
+1) Finish DOM manipulation to enter data onto the screen
